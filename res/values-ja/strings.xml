@@ -218,7 +218,7 @@
   <string name="systemui_restart_message">すべての変更を反映するには、システム UI の再起動が必要です。再起動しますか？</string>
   <string name="cannot_get_su">Superuser アクセスが不足しているためアクションに失敗しました</string>
   <string name="launcher_shortcut_disabled_message">ショートカットは無効です</string>
-  <string name="hidden_anim_activity_title">Yoga time!!!</string>
+  <string name="hidden_anim_activity_title">Akane time!!!</string>
   <string name="hidden_anim_more_nice">いいぞ</string>
   <!-- Sensor block per-package -->
   <!-- Weather - OmniJaws Settings -->
