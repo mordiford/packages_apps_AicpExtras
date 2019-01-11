@@ -12,16 +12,4 @@
             android:targetClass="com.aicp.extras.changelog.ChangelogActivity"
             android:targetPackage="com.aicp.extras" />
     </shortcut>
-
-    <shortcut
-        android:shortcutId="gerrit"
-        android:enabled="true"
-        android:icon="@drawable/ic_launcher_shortcut_gerrit"
-        android:shortcutDisabledMessage="@string/launcher_shortcut_disabled_message"
-        android:shortcutLongLabel="@string/aicp_gerrit_title"
-        android:shortcutShortLabel="@string/aicp_gerrit_title">
-        <intent
-            android:action="android.intent.action.VIEW"
-            android:data="http://gerrit.aicp-rom.com"/>
-    </shortcut>
 </shortcuts>
